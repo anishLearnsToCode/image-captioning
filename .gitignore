@@ -1,0 +1,9 @@
+.idea
+out
+dist
+__pycache__
+venv
+.ipynb_checkpoints
+annotations
+train2014
+checkpoints
